@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a first-year Master of Public Informatics student at the Edward J. Bloustein School of Planning and Public Policy at Rutgers University-New Brunswick. I have a B.S. in Electrical Engineering from The University of Texas at Austin where I specialized in data science and signal processing. I did many projects as an undergraduate that applied data science and engineering to community needs, and now I'm passionate about using data science tools to inform social policy solutions.
+I'm a second-year Master of Public Informatics student at the Edward J. Bloustein School of Planning and Public Policy at Rutgers University-New Brunswick. I have a B.S. in Electrical Engineering from The University of Texas at Austin where I specialized in data science and signal processing. I did many projects as an undergraduate that applied data science and engineering to community needs, and now I'm passionate about using data science tools to inform policy and business solutions.
